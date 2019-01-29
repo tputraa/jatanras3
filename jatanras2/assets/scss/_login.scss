@@ -1,0 +1,66 @@
+#page-title {
+  background-color: $brand-bg-primary;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+#login-register {
+	.login-block {
+		.profile-img {
+		  width: 96px;
+		  height: 96px;
+		  margin: 0 auto 10px;
+		  display: block;    
+		  -webkit-border-radius: 50%;
+		     -moz-border-radius: 50%;  
+		  				border-radius: 50%;
+		}	
+		input {
+			&.form-control {
+			  font-size: 16px;
+			  padding: 10px;
+			  outline: none;
+		    box-shadow: none;
+		    border: 1px solid #ced4da;
+			}
+		  &[type="text"] {
+		    margin-bottom: -1px;
+		    border-bottom-left-radius: 0;
+		    border-bottom-right-radius: 0;
+		  }
+		  &[type="password"] {
+		    border-top-left-radius: 0;
+		    border-top-right-radius: 0;
+		    margin-bottom: 5px;
+		  }
+		  &[type=submit] {
+		    margin-bottom: 10px;
+		  }
+		}	
+		.form-bottom-links {
+			border-top: 1px solid #888;
+			padding-top: 15px;
+			font-size: 85%
+		}	
+	}
+	.register-block {
+		.login-link {			
+			font-size: 85%;
+			position: relative;
+			top: 10px;
+		}
+	}
+}
+.card-recover {
+	margin-top: 16px;
+}
+
+// fix for bootbox for bootstrap 4
+.bootbox .modal-header {
+	h4 {
+    order: 0;
+	}
+	button {
+    order: 1;
+	}
+}

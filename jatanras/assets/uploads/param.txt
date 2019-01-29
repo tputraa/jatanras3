@@ -1,0 +1,7 @@
+"Report/getVisitByWorkDay";
+contoh parameter
+- http://apps.zambon-indonesia.com/api/index.php/Report/getVisitByWorkDay?token=90d94760b144e7295972c51fa2dd8726&from_date=2018-11-01&to_date=2018-11-29
+- http://apps.zambon-indonesia.com/api/index.php/Report/getVisitByWorkDay?token=90d94760b144e7295972c51fa2dd8726&from_date=2018-11-01&to_date=2018-11-29&region_id=4
+- http://apps.zambon-indonesia.com/api/index.php/Report/getVisitByWorkDay?token=90d94760b144e7295972c51fa2dd8726&from_date=2018-11-01&to_date=2018-11-29&region_id=4&group_area_id=7
+- http://apps.zambon-indonesia.com/api/index.php/Report/getVisitByWorkDay?token=90d94760b144e7295972c51fa2dd8726&from_date=2018-11-01&to_date=2018-11-29&region_id=4&group_area_id=7&branch_id=10
+

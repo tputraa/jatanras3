@@ -1,0 +1,13 @@
+<FilesMatch "lapbul_bulan_Januari_2018.pdf">
+AuthName "Password Protected"
+AuthType Basic
+AuthUserFile /public_html/coarmada/.htpasswd
+require valid-user
+</FilesMatch>
+
+<FilesMatch "Lapkonis_April_2018.pdf">
+AuthName "Password Protected"
+AuthType Basic
+AuthUserFile /public_html/coarmada/.htpasswd
+require valid-user
+</FilesMatch>

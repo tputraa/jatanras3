@@ -1,0 +1,9 @@
+[04-Oct-2018 04:46:53 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[04-Oct-2018 06:21:50 UTC] PHP Warning:  sprintf(): Too few arguments in /home/develsync/public_html/indoukm/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Oct-2018 06:22:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/develsync/public_html/indoukm/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Oct-2018 06:22:20 UTC] PHP Warning:  sprintf(): Too few arguments in /home/develsync/public_html/indoukm/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Oct-2018 06:22:47 UTC] PHP Warning:  sprintf(): Too few arguments in /home/develsync/public_html/indoukm/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Oct-2018 06:23:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/develsync/public_html/indoukm/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Oct-2018 06:24:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/develsync/public_html/indoukm/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
+[04-Oct-2018 06:27:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/develsync/public_html/indoukm/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
+[04-Oct-2018 06:36:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/develsync/public_html/indoukm/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733

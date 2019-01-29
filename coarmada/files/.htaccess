@@ -1,0 +1,7 @@
+AuthUserFile /public_html/coarmada/.htpasswd
+AuthGroupFile /public_html/coarmada/files/
+AuthName "Authorization Required"
+AuthType Basic
+<Limit GET POST HEAD PUT DELETE CONNECT OPTIONS HTTP>
+require valid-user
+</Limit>

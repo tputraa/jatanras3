@@ -1,0 +1,12 @@
+[22-Nov-2018 06:40:56 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:52:47 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:52:52 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:52:54 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:57:19 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:58:01 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[22-Nov-2018 07:58:48 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/develsync/public_html/jatanras/application/controllers/admin/Dokumen.php on line 121
+[26-Nov-2018 05:45:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/develsync/public_html/jatanras/application/controllers/User.php on line 48
+[26-Nov-2018 05:45:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/develsync/public_html/jatanras/application/controllers/User.php on line 48
+[26-Nov-2018 06:00:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/develsync/public_html/jatanras/application/controllers/User.php on line 48
+[26-Nov-2018 07:04:09 UTC] PHP Fatal error:  Call to undefined method Penyidik_model::get_datapenyidik() in /home/develsync/public_html/jatanras/application/controllers/kanit/Dokumen.php on line 35
+[14-Dec-2018 13:26:10 UTC] PHP Fatal error:  Call to undefined method Summary_model::record_count_renmin() in /home/develsync/public_html/jatanras/application/controllers/admin/Dashboard.php on line 47
